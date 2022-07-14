@@ -1,0 +1,21 @@
+enum FontType {
+  montserratBlack,
+  montserratBlackItalic,
+  montserratBold,
+  montserratBoldItalic,
+  montserratExtraBold,
+  montserratExtraBoldItalic,
+  montserratExtraLight,
+  montserratExtraLightItalic,
+  montserratItalic,
+  montserratLight,
+  montserratLightItalic,
+  montserratMedium,
+  montserratMediumItalic,
+  montserratRegular,
+  montserratSemiBold,
+  montserratSemiBoldItalic,
+  montserratThin,
+  montserratThinItalic,
+  poppinsRegular
+}
